@@ -207,7 +207,3 @@ module Graph
     end
   end
 end
-
-class ActiveRecord::Base
-  include Graph
-end

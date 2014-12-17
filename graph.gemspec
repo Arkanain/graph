@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
   s.authors = ["Yuri Holubchenko"]
-  s.date = "2014-12-15"
+  s.date = "2014-12-17"
   s.description = "Implement base functionality to work with graphs"
   s.email = "arkanainkiller@gmail.com"
   s.extra_rdoc_files = ["README.rdoc", "lib/graph.rb"]
