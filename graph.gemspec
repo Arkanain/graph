@@ -11,8 +11,8 @@ Gem::Specification.new do |s|
   s.date = "2014-12-17"
   s.description = "Implement base functionality to work with graphs"
   s.email = "arkanainkiller@gmail.com"
-  s.extra_rdoc_files = ["README.rdoc", "lib/graph.rb"]
-  s.files = ["Manifest", "README.rdoc", "Rakefile", "graph.gemspec", "lib/graph.rb"]
+  s.extra_rdoc_files = ["CHANGELOG", "README.rdoc", "lib/graph.rb"]
+  s.files = ["CHANGELOG", "Manifest", "README.rdoc", "Rakefile", "graph.gemspec", "lib/graph.rb"]
   s.homepage = "http://github.com/Arkanain/graph"
   s.rdoc_options = ["--line-numbers", "--title", "Graph", "--main", "README.rdoc"]
   s.rubyforge_project = "graph"
