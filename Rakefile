@@ -2,7 +2,7 @@ require 'rubygems'
 require 'rake'
 require 'echoe'
 
-Echoe.new('graph', '0.1.0') do |p|
+Echoe.new('graph', '0.1.1') do |p|
   p.description               = 'Implement base functionality to work with graphs'
   p.url                       = 'http://github.com/Arkanain/graph'
   p.author                    = 'Yuri Holubchenko'
